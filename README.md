@@ -42,7 +42,7 @@
 ##  GitHub Stats
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagya-2111&show_icons=true&theme=radical)
 
   
 </div>
