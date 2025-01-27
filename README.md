@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Yagya!  
+#  Hy, I'm Yagya
 
-🚀 **A Full-Stack Web Developer passionate about building scalable, user-friendly applications.**  
-💡 I specialize in **MERN Stack Development** and have a knack for creating visually appealing, interactive UIs.  
-🎯 On a mission to write clean, efficient, and impactful code!
+ **A Full-Stack Web Developer passionate about building scalable, user-friendly applications.**  
+ I specialize in **MERN Stack Development** and have a knack for creating visually appealing, interactive UIs.  
+ On a mission to write clean, efficient, and impactful code!
 
 ---
 
-## 🛠️ Technologies I Work With  
-### 🚀 **Frontend**
+##  Technologies I Work With  
+###  **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -16,7 +16,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### ⚙️ **Backend**
+###  **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -24,14 +24,14 @@
 ![NoSQL](https://img.shields.io/badge/NoSQL-E34F26?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🛠️ **Tools & Platforms**
+###  **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🌐 Languages I Know
+##  Languages I Know
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <div align="center">
   
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
@@ -49,7 +49,7 @@
 
 ---
 
-## 💡 Fun Fact
+##  Fun Fact
 > _"I believe that good design and good functionality go hand in hand!."_  
 ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
