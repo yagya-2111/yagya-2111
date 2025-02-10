@@ -47,6 +47,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yagya-2111&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yagya-2111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-profile-trophy.vercel.app/?username=yagya-2111&theme=dark&no-frame=false&no-bg=true&margin-w=4)<br/>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=yagya-2111&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false)<br/>
+
+![](https://github-contributor-stats.vercel.app/api?username=yagya-2111&theme=dark&hide_border=false&show_icons=true)<br/>
+
+
 
   
 </div>
