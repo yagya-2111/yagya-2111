@@ -44,12 +44,8 @@
   
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagya-2111&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yagya-2111&theme=default)
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=yagya-2111&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_title=true&hide_rank=false&hide=stars&line_height=24)
-
-**Current Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yagya-2111&theme=default)
-**Total Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yagya-2111&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yagya-2111&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yagya-2111&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yagya-2111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
